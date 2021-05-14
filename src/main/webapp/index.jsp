@@ -27,7 +27,7 @@
       </table>
 
 
-<table width="40%" bgcolor="yellow" align="center" border="2">
+<table width="60%" bgcolor="yellow" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
@@ -45,7 +45,7 @@
 
 <tr>
 <td ><input type="Reset"></td>
-<td><input type="submit" onclick="return check(this.form)" value="Login"></td>
+<td><input type="enter" onclick="return check(this.form)" value="Login"></td>
 </tr>
 
 </table>
