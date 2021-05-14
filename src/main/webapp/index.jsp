@@ -44,7 +44,7 @@
 </tr>
 
 <tr>
-<td ><input type="Enter"></td>
+<td ><input type="Reset"></td>
 <td><input type="Submit" onclick="return check(this.form)" value="Login"></td>
 </tr>
 
